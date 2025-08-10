@@ -1,2 +1,2 @@
 # hello-world
-follow the tutrial
+follow the tutorial
